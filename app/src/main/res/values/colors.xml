@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="primaryTextColor">#529198</color>
+    <color name="bg_start_color">#91D4DD</color>
+    <color name="bg_end_color">#DFFBFC</color>
+    <color name="button_bg_start_color">#53A2A9</color>
+    <color name="button_bg_end_color">#90D4DF</color>
+    <color name="input_bg_color">#D5F6FB</color>
+    <color name="stroke_color">#B9E5E8</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
 </resources>

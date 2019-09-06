@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ninix</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="please_enter_your_phone_number">Please Enter Your Phone Number</string>
+    <string name="confirm">confirm</string>
+    <string name="iran_code">+98</string>
+    <string name="your_phone_number">Your phone number</string>
 </resources>
